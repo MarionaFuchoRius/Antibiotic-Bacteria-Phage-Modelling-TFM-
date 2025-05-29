@@ -8,7 +8,7 @@ This repository contains all the code developed for my Master's thesis on the ma
 
 The repository is organized into the following directories:
 
-### 🔹 `Antibiotic-Bacteria Model`
+### `Antibiotic-Bacteria Model`
 Contains all code relevant to **Chapter 1**, including:
 - Dose-response curve analysis under antibiotic treatment
 - Eigenvalue computation for coexistence equilibria under various parameter scenarios
@@ -18,7 +18,7 @@ Contains all code relevant to **Chapter 1**, including:
 - Extinction time estimation for selected parameter values to investigate the effects of mortality and mutation rates
 - Basin of attraction analysis over finite time horizons
 
-### 🔹 `Antibiotic-Bacteria-Phage (ABP) Model`
+### `Antibiotic-Bacteria-Phage (ABP) Model`
 Contains all code related to **Chapters 2 and 3** (including future work), including:
 - Integration and simulation of full system dynamics
 - Continuation methods to find equilibria from the embedded phage-free subsystem
